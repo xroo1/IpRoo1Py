@@ -1,5 +1,5 @@
 # IpRoo1Py
-Uma ferramenta para saber mais informações sobre um tergeminado IP
+Uma ferramenta para saber mais informações sobre um determinado IP
 
 
 # Vidoe
