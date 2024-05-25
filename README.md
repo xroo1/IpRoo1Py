@@ -1,9 +1,6 @@
 # IpRoo1Py
 Uma ferramenta para saber mais informações sobre um determinado IP
 
-
-# Vidoe
-
 ![ipRoo1](https://github.com/xroo1/IpRoo1Py/assets/108178145/436e2915-6d08-4ba5-9e2c-b38d57860251)
 
 
